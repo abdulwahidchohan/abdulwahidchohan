@@ -1,40 +1,6 @@
-Here’s a **next-level, elite** `README.md` template for **Abdul Wahid Chohan**, combining cutting-edge visuals, live metrics, animated headers, Mermaid diagrams, WakaTime stats, dynamic changelogs, and more to deliver an unforgettable first impression.
 
----
-
-## Summary  
-Top 2025 GitHub profiles leverage **animated headers** for instant engagement, **live metrics** for credibility, **Mermaid diagrams** for dynamic roadmaps, **WakaTime** and **GitHub Stats** cards for productivity proof, and **dynamic changelogs** to showcase real-time activity citeturn0search11turn0search19turn0search20. This template merges all these elements into one seamless, branded experience.
-
----
-
-## Key Features
-
-### 💫 Animated Header  
-A custom banner sets the tone and reinforces branding, using `capsule-render` or a generated graphic citeturn0search11.
-
-### 📊 Live Metrics & Coding Stats  
-- **GitHub Stats** via `github-readme-stats` for contribution numbers and language breakdown citeturn0search6.  
-- **WakaTime Weekly Metrics** to display your actual coding hours and language usage citeturn0search2.
-
-### 📈 Dynamic Changelog  
-Embed a live changelog with GitClear’s generator to highlight your latest commits and activities citeturn0search20.
-
-### 📋 Mermaid Diagrams & Roadmaps  
-Use Mermaid syntax for rendered flowcharts, Gantt charts, and more—no external images needed citeturn0search1turn0search5.
-
-### 🛡️ Badges & Contact Links  
-Branded shields for skills, certifications, and social links that drive action citeturn0search0turn0search8.
-
----
-
-## Elite `README.md` Template
-
-> **Note:** Upload your custom banner graphic (`assets/banner.png`) to your repo before using.
-
-```markdown
-<!-- Custom Banner -->
 <p align="center">
-  <img src="assets/banner.png" alt="Abdul Wahid Chohan" />
+  <img src="banner.png" alt="Abdul Wahid Chohan" />
 </p>
 
 <!-- Navigation -->
@@ -115,7 +81,6 @@ gantt
 ---
 
 ## ⏱️ Weekly Coding Stats
-```markdown
 <!-- WakaTime Stats -->
 ![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME)
 ```
