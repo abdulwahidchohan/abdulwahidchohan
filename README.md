@@ -17,8 +17,8 @@ Karachi-based **AI & Robotics specialist in the making**, passionate about **Age
 
 - 📍 **Location:** Karachi, Pakistan  
 - 📚 **Education:** BS in Robotics & Intelligent Systems — *Bahria University Karachi Campus*  
-- 🎓 **Diploma:** AI Agents & Robotics — *GIAIC*  
-- 🚀 **Role:** Co-founder & Data Specialist at *A.W.M. Technical Studio*  
+- 🎓 **Diploma:** Agentic AI & Robotics — *GIAIC*  
+- 🚀 **Role:** Founder & Data Specialist at *A.W.M. Technical Studio*  
 - 🧠 **Expertise:** Python, C++, JavaScript, Git, AI/ML frameworks, Data Analytics, Graphic Design  
 - 🌐 **Vision:** Build world-class AI products for **freelancers & businesses** — starting with *FreelanceX.AI*  
 
