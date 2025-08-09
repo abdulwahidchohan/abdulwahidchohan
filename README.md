@@ -1,66 +1,77 @@
-<!-- Banner -->
+<!-- Typing Animation Banner -->
 <p align="center">
-  <img src="https://readme-landing.vercel.app/api/banner?name=Abdul%20Wahid%20Chohan&subtitle=Crafting%20Code%20with%20Purpose%20%7C%20Future%20AI%20Architect&backgroundColor=0D1117&textColor=00BFFF" alt="Abdul Wahid Chohan Banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=850&lines=Abdul+Wahid+Chohan;AI+%26+Robotics+Visionary;Future+Global+AI+Architect;Crafting+Code+That+Matters;Turning+Ideas+Into+Impact" alt="Typing Animation">
+</p>
+
+<!-- Hero Banner -->
+<p align="center">
+  <img src="https://readme-landing.vercel.app/api/banner?name=Abdul%20Wahid%20Chohan&subtitle=AI%20%7C%20Robotics%20%7C%20Data%20Science%20%7C%20Agentic%20AI%20Specialist&backgroundColor=0D1117&textColor=00BFFF" alt="Banner">
 </p>
 
 ---
 
-## 👋 About Me
+## 👋 Meet Abdul Wahid Chohan
+Karachi-based **AI & Robotics specialist in the making**, passionate about **Agentic AI systems, robotics, and data science** — blending creativity with code to build impactful, future-ready tech.
 
-Hi there! I'm **Abdul Wahid Chohan** — a passionate Pythonista, C++ enthusiast, and future machine whisperer from **Karachi, Pakistan**.
+💡 *"First, solve the problem. Then, build the system that solves it forever."*
 
-- 🌿 Currently learning: **AI, ML, and Advanced OOP**
-- 🚀 Mission: Build tech that *actually* matters.
-- 🔧 Skilled in: Python, C++, Git/GitHub, JavaScript, Graphic Design, Data Analytics
-- 🎯 Goal this year: Launch a personal AI project on GitHub
-- 🧠 Fun fact: I debug in my sleep sometimes (true story).
+- 📍 **Location:** Karachi, Pakistan  
+- 📚 **Education:** BS in Robotics & Intelligent Systems — *Bahria University Karachi Campus*  
+- 🎓 **Diploma:** AI Agents & Robotics — *GIAIC*  
+- 🚀 **Role:** Co-founder & Data Specialist at *A.W.M. Technical Studio*  
+- 🧠 **Expertise:** Python, C++, JavaScript, Git, AI/ML frameworks, Data Analytics, Graphic Design  
+- 🌐 **Vision:** Build world-class AI products for **freelancers & businesses** — starting with *FreelanceX.AI*  
 
 ---
 
-## 📝 Qualifications & Certifications
-
-- 🎓 BS in Robotics and Intelligent Systems — *Bahria University Karachi Campus*
-- 🌟 Computer Expert — *Bahria College Karsaz*
-- 🔹 Diploma in AI Agents and Robotics — *GIAIC (Governor's Initiative for Artificial Intelligence Course)*
+## 🏆 Career Highlights
+- 💼 Co-founded **A.W.M. Technical Studio** — delivering AI, design, and data solutions.  
+- 🤖 Built **multi-agent AI systems** with OpenAI SDK & Gemini for global freelancers.  
+- 🔐 Developed **Secure Vault CLI Tool** — password encryption with C++ & OpenSSL.  
+- 📊 Created **GitHub Activity Visualizer** — real-time visual tracking of developer productivity.  
+- 🎨 Designed **dynamic, high-impact GitHub profiles** for professionals worldwide.  
 
 ---
 
 ## 🧰 Tech Stack
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,git,github,vscode,linux,html,css,js" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,git,github,vscode,linux,html,css,js,figma,ai,tensorflow,fastapi" />
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AbdulWahidChohan&theme=darkhub&no-bg=true&margin-w=10" />
-</p>
+## 🚀 Current Projects
+| 🚀 Project | 📄 Description | 🛠 Tech |
+|-----------|----------------|---------|
+| 🧠 **FreelanceX.AI** | Agentic AI SaaS for global freelancers with automation & research agents | Python, OpenAI SDK, Gemini 2.0, Chainlit |
+| 🤖 **AI Chatbot** | Personal AI assistant trained on my data | Python, LangChain |
+| 🔐 **Secure Vault CLI** | Encrypt/decrypt passwords locally | C++, OpenSSL |
+| 📊 **GitHub Visualizer** | Graph your GitHub activity beautifully | Python, Matplotlib |
+| 🎨 **Profile Wizard** | Auto-build fancy GitHub READMEs | JavaScript, HTML, CSS |
+| 🖥 **Terminal Portfolio** | Portfolio in your terminal | Bash, Python |
+| ➕ **CLI Calculator+** | CLI calculator with history | Python |
 
 ---
 
-## 📊 GitHub Stats & Activity
-
+## 📊 Developer Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbdulWahidChohan&show_icons=true&theme=github_dark&count_private=true&hide_title=true&custom_title=Abdul%20Wahid%20Chohan%20%7C%20Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdulWahidChohan&theme=github-dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AbdulWahidChohan&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdulWahidChohan&theme=github-dark&hide_border=true" height="165" />
+</p>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulWahidChohan&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
 ---
 
 ## ⏱️ Time Well Spent (WakaTime)
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=AbdulWahidChohan&theme=github_dark" />
 </p>
 
 ---
 
-## 📊 Activity Insights
-
+## 📈 Activity & Contributions
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbdulWahidChohan&theme=github_dark" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AbdulWahidChohan&theme=github_dark&utcOffset=+5" />
@@ -68,93 +79,50 @@ Hi there! I'm **Abdul Wahid Chohan** — a passionate Pythonista, C++ enthusiast
 
 ---
 
-## 🗓️ Achievements Timeline
-
-<p align="center">
-  <img src="https://github-contribution-graph.ez4o.com/?username=AbdulWahidChohan&bg=0D1117&color=00BFFF&line=00BFFF&point=FFFFFF" />
-</p>
+## 🎯 Goals for 2025
+- ✅ Master advanced **Python** & **C++**  
+- ✅ Launch **FreelanceX.AI MVP**  
+- 🚧 Publish a **GitHub toolkit** for AI agents  
+- 📚 Read **12 books** on AI, systems, and psychology  
+- 🌍 Land **international AI freelancing projects**  
 
 ---
 
-## 🎵 Now Playing on Spotify
-
+## 🎵 Now Playing
 <p align="center">
   <img src="https://spotify-now-playing-readme.vercel.app/api/spotify?background_color=0D1117&border_color=00BFFF" alt="Spotify Now Playing" />
 </p>
 
 ---
 
-## 🚀 My Current Projects
-
-| Project | Description | Tech |
-|--------|-------------|------|
-| 🧠 AI Chatbot | An AI assistant trained on personal data | Python, OpenAI, Langchain |
-| 🔐 Secure Vault | CLI tool to encrypt/decrypt passwords | C++, OpenSSL |
-| 📊 GitHub Visualizer | Tracks your public activity in graphs | Python, GitHub API, Matplotlib |
-| 📱 AI Agents Suite | Collection of custom LLM-based tools | Python, Langchain, FastAPI |
-| 🎨 GitHub Profile Wizard | Builds epic READMEs with flair | JavaScript, HTML, CSS |
-| 🖥️ Terminal Portfolio | Dev portfolio you can run in the terminal | Bash, Python, ASCII Art |
-| 💡 CLI Calculator+ | Advanced CLI calculator with history | Python |
-
----
-
-## 🎯 Goals for 2025
-
-- ✅ Master advanced Python and C++
-- ✅ Land an internship in a tech-focused startup
-- 🚧 Build a SaaS MVP before Q4
-- 📚 Read 12 books on AI, systems, and psychology
-
----
-
-## ✨ Did You Know?
-
-- 🧠 I once built a chatbot that cracked dad jokes better than my uncle.
-- ⌛ I believe every second in code is an investment in the future.
-- 🔥 Favorite Quote: *“First, solve the problem. Then, write the code.” – John Johnson*
-- 🪘 I write better code when sipping chai and vibing to lo-fi beats.
-
----
-
-## 💬 Fun Facts
-
-- ⚡ I solve problems better with lo-fi music on.
-- 🤖 My dream? An AI that writes poetry.
-- 💻 I broke my first program in under 10 seconds. Proud of that one.
-
----
-
-## 📩 Connect with Me <a name="-connect-with-me"></a>
-
+## 🌐 Connect With Me
 <p align="center">
   <a href="mailto:abdulwahidchohan@gmail.com"><img src="https://img.shields.io/badge/Email-00BFFF?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/abdulwahidchohan/"><img src="https://img.shields.io/badge/LinkedIn-00BFFF?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/AbdulWahidReal"><img src="https://img.shields.io/badge/X-00BFFF?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://twitter.com/AbdulWahidReal"><img src="https://img.shields.io/badge/Twitter-00BFFF?style=for-the-badge&logo=twitter&logoColor=white" /></a>
   <a href="https://github.com/AbdulWahidChohan"><img src="https://img.shields.io/badge/GitHub-00BFFF?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://www.behance.net/abdulwahidchohan"><img src="https://img.shields.io/badge/Behance-00BFFF?style=for-the-badge&logo=behance&logoColor=white" /></a>
 </p>
 
 ---
 
-## 📝 Resume
-
+## 📩 Resume
 <p align="center">
   <a href="https://abdulwahidchohan.github.io/resume.pdf" download>
-    <img src="https://img.shields.io/badge/Download Resume-00BFFF?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
+    <img src="https://img.shields.io/badge/Download%20Resume-00BFFF?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
   </a>
 </p>
 
 ---
 
 ## 👀 Visitors
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AbdulWahidChohan&label=Profile%20views&color=00BFFF&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=AbdulWahidChohan&label=Profile%20Views&color=00BFFF&style=flat" />
 </p>
 
 ---
 
-<!-- SVG Divider -->
+<!-- Closing Wave Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Ashutosh00710/github-readme-activity-graph/master/svg/profile.svg" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=100&section=footer"/>
 </p>
