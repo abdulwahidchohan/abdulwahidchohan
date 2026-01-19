@@ -34,7 +34,7 @@
     <td width="50%" valign="top">
       <h3 align="center">⚡ PERFORMANCE METRICS</h3>
       <div align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=AbdulWahidChohan&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;hide_title=true&amp;count_private=true&amp;include_all_commits=true" height="150" />
+        <img src="https://github-readme-stats.vercel.app/api?username=AbdulWahidChohan&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;hide_title=true&amp;count_private=true" height="150" />
         <br>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulWahidChohan&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;hide_title=true" height="150" />
       </div>
