@@ -1,128 +1,111 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=850&lines=Abdul+Wahid+Chohan;AI+%26+Robotics+Visionary;Building+the+Brain+of+Tomorrow;Dual-Degree+Scholar;Hardware+meets+Software" alt="Typing Animation">
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=40&pause=1000&color=A965FF&center=true&vCenter=true&width=900&lines=ABDUL+WAHID+CHOHAN;SYSTEM+ARCHITECT;ROBOTICS+ENGINEER;AGENTIC+AI+SPECIALIST" alt="Typing SVG" />
+</div>
 
-<p align="center">
-  <img src="https://readme-landing.vercel.app/api/banner?name=Abdul%20Wahid%20Chohan&subtitle=Robotics%20%7C%20Agentic%20AI%20%7C%20Full%20Stack%20%7C%20System%20Architect&backgroundColor=0D1117&textColor=00BFFF" alt="Banner">
-</p>
-
----
-
-## 👋 Meet Abdul Wahid Chohan
-**Future Architect of Intelligent Systems.** I am a Karachi-based multidisciplinary developer pursuing a unique **dual-track education** in Robotics and Computer Science. My passion lies at the intersection of **hardware control, agentic AI, and human psychology** — building systems that not only compute but *perceive* and *act*.
-
-💡 *"First, solve the problem. Then, build the system that solves it forever."*
-
-- 📍 **Location:** Karachi, Pakistan
-- 🏫 **Dual-Degree Scholar:**
-  - 🤖 **BS Robotics & Intelligent Systems** — *Bahria University*
-  - 💻 **BS Computer Science** — *University of the People*
-- 🚀 **Role:** Founder & Data Specialist at *A.W.M. Technical Studio*
-- 🧠 **Core Focus:** Agentic Workflows, Embedded Systems, Computer Vision, & Data Science
-- 🌐 **Goal:** To create autonomous digital workers for the gig economy via **FreelanceX.AI**.
-
----
-
-## 🏆 Career & Academic Highlights
-- 💼 Co-founded **A.W.M. Technical Studio** — delivering AI, design, and data solutions.
-- 🤖 Built **multi-agent AI systems** with OpenAI SDK & Gemini for global freelancers.
-- 📡 Designed **Ride-Hailing System Architectures** focusing on optimization algorithms.
-- ⏱️ Engineered **Digital Stopwatch Logic** using ICs/DLD (bridging software & hardware).
-- 🔐 Developed **Secure Vault CLI Tool** — password encryption with C++ & OpenSSL.
-
----
-
-## 🧰 Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,bash" />
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,selenium" />
-  <img src="https://skillicons.dev/icons?i=git,github,linux,docker,mysql,vscode,figma" />
-</p>
-
----
-
-## 🚀 Projects Lab
-| 🏗️ Project | 📄 Description | 🛠 Tech |
-|-----------|----------------|---------|
-| 🧠 **FreelanceX.AI** | Agentic AI SaaS for freelancers with automation & research agents | Python, OpenAI, Gemini 2.0 |
-| 🤖 **Personal AI Chatbot** | Custom LLM wrapper trained on personal context | Python, LangChain, Gemini API |
-| ⏱️ **Digital Logic Stopwatch** | Hardware-level timekeeping circuit simulation | DLD, IC Logic Design, Proteus |
-| 📚 **LMS Database** | Comprehensive Library Management System backend | SQL, Relational Design |
-| 🔐 **Secure Vault CLI** | Encrypt/decrypt passwords locally | C++, OpenSSL |
-| 📊 **GitHub Visualizer** | Graph your GitHub activity beautifully | Python, Matplotlib |
-| 🚗 **Ride-Hailing Architect** | System design & logic for transport algorithms | Python, Algorithms |
-
----
-
-## 📊 Developer Analytics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbdulWahidChohan&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdulWahidChohan&theme=github-dark&hide_border=true" height="165" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulWahidChohan&layout=compact&theme=github_dark&hide_border=true" />
-</p>
-
----
-
-## ⏱️ Time Well Spent (WakaTime)
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=AbdulWahidChohan&theme=github_dark" />
-</p>
-
----
-
-## 📈 Activity & Contributions
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbdulWahidChohan&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AbdulWahidChohan&theme=github_dark&utcOffset=+5" />
-</p>
-
----
-
-## 🎯 Goals for 2025-26
-- ✅ Master **Embedded AI** (running models on edge devices).
-- ✅ Launch **FreelanceX.AI MVP**.
-- 🚧 Deep dive into **Psychology of AI** (Human-Computer Interaction).
-- 📚 Read **12 books** on Systems Thinking & Cognitive Science.
-- 🌍 Land **international AI freelancing projects**.
-
----
-
-## 🎵 Now Playing
-<p align="center">
-  <img src="https://spotify-now-playing-readme.vercel.app/api/spotify?background_color=0D1117&border_color=00BFFF" alt="Spotify Now Playing" />
-</p>
-
----
-
-## 🌐 Connect With Me
-<p align="center">
-  <a href="mailto:abdulwahidchohan@gmail.com"><img src="https://img.shields.io/badge/Email-00BFFF?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/abdulwahidchohan/"><img src="https://img.shields.io/badge/LinkedIn-00BFFF?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/AbdulWahidReal"><img src="https://img.shields.io/badge/Twitter-00BFFF?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="https://github.com/AbdulWahidChohan"><img src="https://img.shields.io/badge/GitHub-00BFFF?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://www.behance.net/abdulwahidchohan"><img src="https://img.shields.io/badge/Behance-00BFFF?style=for-the-badge&logo=behance&logoColor=white" /></a>
-</p>
-
----
-
-## 📩 Resume
-<p align="center">
-  <a href="https://abdulwahidchohan.github.io/resume.pdf" download>
-    <img src="https://img.shields.io/badge/Download%20Resume-00BFFF?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=AbdulWahidChohan&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
   </a>
-</p>
+</div>
 
----
+<hr/>
 
-## 👀 Visitors
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AbdulWahidChohan&label=Profile%20Views&color=00BFFF&style=flat" />
-</p>
+<table border="0" width="100%">
+  <tr>
+    <td width="55%" valign="top">
+      <h2 align="center">⚡ System Status: <span style="color:#A965FF">ONLINE</span></h2>
+      <br>
+      <b>👨‍💻 The Human Behind the Code</b><br>
+      I am a <b>dual-degree scholar</b> bridging the gap between hardware control and cognitive AI. Currently building <b>FreelanceX.AI</b> to automate the gig economy.
+      <br><br>
+      <b>📍 Base:</b> Karachi, Pakistan<br>
+      <b>🎓 Degree 1:</b> BS Robotics (Bahria University)<br>
+      <b>🎓 Degree 2:</b> BS Computer Science (UoPeople)<br>
+      <b>🛠️ Specialty:</b> Embedded Systems & Agentic Workflows<br>
+      <b>🔭 Interest:</b> Psychology of AI & Human-Robot Interaction
+      <br><br>
+      <a href="https://abdulwahidchohan.github.io/resume.pdf">
+        <img src="https://img.shields.io/badge/ACCESS_RESUME_📂-2a2a2a?style=for-the-badge&logo=adobeacrobatreader&logoColor=FF65A9" />
+      </a>
+    </td>
+    <td width="45%" valign="top">
+      <h2 align="center">📊 Neural Analytics</h2>
+      <div align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=AbdulWahidChohan&show_icons=true&theme=radical&hide_border=true&hide_title=true&count_private=true&include_all_commits=true" height="150" />
+        <br>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulWahidChohan&layout=compact&theme=radical&hide_border=true&hide_title=true" height="150" />
+      </div>
+    </td>
+  </tr>
+</table>
 
----
+<br>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=100&section=footer"/>
-</p>
+<h2 align="center">🛠️ Weapons of Choice</h2>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,js,bash,linux&theme=dark" /><br>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,selenium,mysql,git,docker" /><br>
+  <img src="https://skillicons.dev/icons?i=vscode,figma,arduino,raspberrypi" />
+</div>
+
+<br>
+
+<h2 align="center">🚀 Mission Log (Projects)</h2>
+<table border="0" width="100%">
+  <tr>
+    <td width="50%">
+      <h3 align="center">🧠 FreelanceX.AI</h3>
+      <div align="center">
+        <img src="https://img.shields.io/badge/Stack-Python_%7C_Gemini_%7C_OpenAI-A965FF?style=flat-square" />
+      </div>
+      <p align="center">Agentic AI SaaS designed to automate freelance workflows, research, and client management.</p>
+    </td>
+    <td width="50%">
+      <h3 align="center">⏱️ Digital Logic Stopwatch</h3>
+      <div align="center">
+        <img src="https://img.shields.io/badge/Stack-DLD_%7C_IC_Logic_%7C_Proteus-FF65A9?style=flat-square" />
+      </div>
+      <p align="center">Hardware-level circuit design simulating precise timekeeping without microcontrollers.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🔐 Secure Vault CLI</h3>
+      <div align="center">
+        <img src="https://img.shields.io/badge/Stack-C++_%7C_OpenSSL_%7C_Crypto-A965FF?style=flat-square" />
+      </div>
+      <p align="center">A high-security local password manager using industry-standard encryption protocols.</p>
+    </td>
+    <td width="50%">
+      <h3 align="center">📚 LMS Database</h3>
+      <div align="center">
+        <img src="https://img.shields.io/badge/Stack-SQL_%7C_Relational_DB-FF65A9?style=flat-square" />
+      </div>
+      <p align="center">Complex backend architecture for a Library Management System handling massive datasets.</p>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<h2 align="center">📈 Contribution Frequency</h2>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdulWahidChohan&bg_color=141321&color=A965FF&line=FF65A9&point=FFFFFF&hide_border=true" />
+</div>
+
+<hr/>
+
+<div align="center">
+  <h3>📡 Initialize Connection</h3>
+  <a href="mailto:aw4532350@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/abdulwahidchohan/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/AbdulWahidChohan">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <br><br>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,30&height=5" width="100%"/>
+</div>
