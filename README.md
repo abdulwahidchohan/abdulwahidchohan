@@ -183,11 +183,11 @@ not tools, not assistants, but autonomous operators.
 <img src="https://img.shields.io/badge/EMAIL-aw4532350%40gmail.com-2a2a2a?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" />
 </a>
 <br><br>
-<a href="https://www.linkedin.com/in/abdulwahidchohan/">
+<a href="https://www.linkedin.com/in/abdul-wahid-chohan/">
 <img src="https://img.shields.io/badge/LINKEDIN-STRATEGIC_NETWORK-0077B5?style=flat-square&amp;logo=linkedin&amp;logoColor=white" />
 </a>
 &nbsp;
-<a href="https://github.com/AbdulWahidChohan">
+<a href="https://github.com/abdulwahidchohan">
 <img src="https://img.shields.io/badge/GITHUB-CODEBASE-100000?style=flat-square&amp;logo=github&amp;logoColor=white" />
 </a>
 <br><br>
