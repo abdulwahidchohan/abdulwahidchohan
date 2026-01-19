@@ -1,55 +1,56 @@
-<!-- Typing Animation Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=850&lines=Abdul+Wahid+Chohan;AI+%26+Robotics+Visionary;Future+Global+AI+Architect;Crafting+Code+That+Matters;Turning+Ideas+Into+Impact" alt="Typing Animation">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=850&lines=Abdul+Wahid+Chohan;AI+%26+Robotics+Visionary;Building+the+Brain+of+Tomorrow;Dual-Degree+Scholar;Hardware+meets+Software" alt="Typing Animation">
 </p>
 
-<!-- Hero Banner -->
 <p align="center">
-  <img src="https://readme-landing.vercel.app/api/banner?name=Abdul%20Wahid%20Chohan&subtitle=AI%20%7C%20Robotics%20%7C%20Data%20Science%20%7C%20Agentic%20AI%20Specialist&backgroundColor=0D1117&textColor=00BFFF" alt="Banner">
+  <img src="https://readme-landing.vercel.app/api/banner?name=Abdul%20Wahid%20Chohan&subtitle=Robotics%20%7C%20Agentic%20AI%20%7C%20Full%20Stack%20%7C%20System%20Architect&backgroundColor=0D1117&textColor=00BFFF" alt="Banner">
 </p>
 
 ---
 
 ## 👋 Meet Abdul Wahid Chohan
-Karachi-based **AI & Robotics specialist in the making**, passionate about **Agentic AI systems, robotics, and data science** — blending creativity with code to build impactful, future-ready tech.
+**Future Architect of Intelligent Systems.** I am a Karachi-based multidisciplinary developer pursuing a unique **dual-track education** in Robotics and Computer Science. My passion lies at the intersection of **hardware control, agentic AI, and human psychology** — building systems that not only compute but *perceive* and *act*.
 
 💡 *"First, solve the problem. Then, build the system that solves it forever."*
 
-- 📍 **Location:** Karachi, Pakistan  
-- 📚 **Education:** BS in Robotics & Intelligent Systems — *Bahria University Karachi Campus*  
-- 🎓 **Diploma:** Agentic AI & Robotics — *GIAIC*  
-- 🚀 **Role:** Founder & Data Specialist at *A.W.M. Technical Studio*  
-- 🧠 **Expertise:** Python, C++, JavaScript, Git, AI/ML frameworks, Data Analytics, Graphic Design  
-- 🌐 **Vision:** Build world-class AI products for **freelancers & businesses** — starting with *FreelanceX.AI*  
+- 📍 **Location:** Karachi, Pakistan
+- 🏫 **Dual-Degree Scholar:**
+  - 🤖 **BS Robotics & Intelligent Systems** — *Bahria University*
+  - 💻 **BS Computer Science** — *University of the People*
+- 🚀 **Role:** Founder & Data Specialist at *A.W.M. Technical Studio*
+- 🧠 **Core Focus:** Agentic Workflows, Embedded Systems, Computer Vision, & Data Science
+- 🌐 **Goal:** To create autonomous digital workers for the gig economy via **FreelanceX.AI**.
 
 ---
 
-## 🏆 Career Highlights
-- 💼 Co-founded **A.W.M. Technical Studio** — delivering AI, design, and data solutions.  
-- 🤖 Built **multi-agent AI systems** with OpenAI SDK & Gemini for global freelancers.  
-- 🔐 Developed **Secure Vault CLI Tool** — password encryption with C++ & OpenSSL.  
-- 📊 Created **GitHub Activity Visualizer** — real-time visual tracking of developer productivity.  
-- 🎨 Designed **dynamic, high-impact GitHub profiles** for professionals worldwide.  
+## 🏆 Career & Academic Highlights
+- 💼 Co-founded **A.W.M. Technical Studio** — delivering AI, design, and data solutions.
+- 🤖 Built **multi-agent AI systems** with OpenAI SDK & Gemini for global freelancers.
+- 📡 Designed **Ride-Hailing System Architectures** focusing on optimization algorithms.
+- ⏱️ Engineered **Digital Stopwatch Logic** using ICs/DLD (bridging software & hardware).
+- 🔐 Developed **Secure Vault CLI Tool** — password encryption with C++ & OpenSSL.
 
 ---
 
 ## 🧰 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,git,github,vscode,linux,html,css,js,figma,ai,tensorflow,fastapi" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,bash" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,selenium" />
+  <img src="https://skillicons.dev/icons?i=git,github,linux,docker,mysql,vscode,figma" />
 </p>
 
 ---
 
-## 🚀 Current Projects
-| 🚀 Project | 📄 Description | 🛠 Tech |
+## 🚀 Projects Lab
+| 🏗️ Project | 📄 Description | 🛠 Tech |
 |-----------|----------------|---------|
-| 🧠 **FreelanceX.AI** | Agentic AI SaaS for global freelancers with automation & research agents | Python, OpenAI SDK, Gemini 2.0, Chainlit |
-| 🤖 **AI Chatbot** | Personal AI assistant trained on my data | Python, LangChain |
+| 🧠 **FreelanceX.AI** | Agentic AI SaaS for freelancers with automation & research agents | Python, OpenAI, Gemini 2.0 |
+| 🤖 **Personal AI Chatbot** | Custom LLM wrapper trained on personal context | Python, LangChain, Gemini API |
+| ⏱️ **Digital Logic Stopwatch** | Hardware-level timekeeping circuit simulation | DLD, IC Logic Design, Proteus |
+| 📚 **LMS Database** | Comprehensive Library Management System backend | SQL, Relational Design |
 | 🔐 **Secure Vault CLI** | Encrypt/decrypt passwords locally | C++, OpenSSL |
 | 📊 **GitHub Visualizer** | Graph your GitHub activity beautifully | Python, Matplotlib |
-| 🎨 **Profile Wizard** | Auto-build fancy GitHub READMEs | JavaScript, HTML, CSS |
-| 🖥 **Terminal Portfolio** | Portfolio in your terminal | Bash, Python |
-| ➕ **CLI Calculator+** | CLI calculator with history | Python |
+| 🚗 **Ride-Hailing Architect** | System design & logic for transport algorithms | Python, Algorithms |
 
 ---
 
@@ -79,12 +80,12 @@ Karachi-based **AI & Robotics specialist in the making**, passionate about **Age
 
 ---
 
-## 🎯 Goals for 2025
-- ✅ Master advanced **Python** & **C++**  
-- ✅ Launch **FreelanceX.AI MVP**  
-- 🚧 Publish a **GitHub toolkit** for AI agents  
-- 📚 Read **12 books** on AI, systems, and psychology  
-- 🌍 Land **international AI freelancing projects**  
+## 🎯 Goals for 2025-26
+- ✅ Master **Embedded AI** (running models on edge devices).
+- ✅ Launch **FreelanceX.AI MVP**.
+- 🚧 Deep dive into **Psychology of AI** (Human-Computer Interaction).
+- 📚 Read **12 books** on Systems Thinking & Cognitive Science.
+- 🌍 Land **international AI freelancing projects**.
 
 ---
 
@@ -122,7 +123,6 @@ Karachi-based **AI & Robotics specialist in the making**, passionate about **Age
 
 ---
 
-<!-- Closing Wave Banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=100&section=footer"/>
 </p>
