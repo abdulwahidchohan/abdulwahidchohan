@@ -24,7 +24,7 @@
 To design autonomous systems that replace repetitive human labor with intelligent, self-directed agents — and to own the infrastructure that powers them.
 <br><br>
 <div align="center">
-<a href="https://abdulwahidchohan.github.io/resume.pdf">
+<a href="Abdul_Wahid_Chohan_Resume_Designer_Enhanced.pdf">
 <img src="https://img.shields.io/badge/📥_DOWNLOAD_EXECUTION_PROFILE_(RESUME)-000000?style=for-the-badge&amp;color=00C9FF" />
 </a>
 </div>
