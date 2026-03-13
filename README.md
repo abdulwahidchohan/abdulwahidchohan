@@ -298,14 +298,21 @@ What makes my profile distinctive is the ability to **bridge hardware engineerin
 
 ## 🌍 Technical Project Domains
 
-```
-Agentic AI Systems  •  LLM Integration  •  Retrieval-Augmented Generation (RAG)
-Educational AI  •  AI Memory Systems  •  Robotics & Embedded Systems
-Autonomous Robotics  •  Full-Stack Web Development  •  Backend API Engineering
-Authentication & Security  •  Secure Software Utilities  •  E-Commerce Applications
-Document Processing  •  Developer Tools & CLI Applications
-Web Scraping & Automation  •  Open-Source Technical Experimentation
-```
+<div align="center">
+
+### 🤖 Autonomous Intelligence
+`Agentic AI Systems` • `LLM Orchestration` • `Retrieval-Augmented Generation (RAG)` • `Contextual Memory Systems` • `Educational AI`
+
+### 🦾 Robotics Engineering
+`Autonomous Robotics` • `Embedded Systems Control` • `6-DOF Kinematics` • `Sensor Fusion` • `Real-Time Logic`
+
+### 🌐 System Architecture
+`Full-Stack Engineering` • `Backend API Design` • `Secure Auth Patterns` • `Scalable Cloud Workflows` • `E-Commerce Systems`
+
+### 🛠️ Data & Automation
+`Web Scraping & ETL` • `Document Processing` • `Developer Utilities` • `CLI Tooling` • `Open-Source Experimentation`
+
+</div>
 
 ---
 
