@@ -17,6 +17,10 @@
 
 </div>
 
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=AbdulWahidChohan&theme=tokyonight&no-bg=true&margin-w=15&column=7" width="100%" />
+</div>
+
 <br>
 
 ---
@@ -99,6 +103,36 @@ What makes my profile distinctive is the ability to **bridge hardware engineerin
 
 ---
 
+## ⚡ System Integration: The Brains & The Body
+
+As a Robotics and AI engineer, I specialize in combining high-level cognitive intelligence with low-level hardware control.
+
+```mermaid
+graph LR
+    subgraph Brains ["🧠 THE COGNITIVE LAYER (AI)"]
+        A[Agentic Frameworks] --> B[LLM Orchestration]
+        B --> C[Contextual Memory / RAG]
+    end
+    
+    subgraph Bridge ["🔄 THE INTEGRATION"]
+        C --> D{Interfacing}
+        D --> E[FastAPI / WebSockets]
+        D --> F[Embedded C++ / ROS]
+    end
+    
+    subgraph Body ["🦾 THE PHYSICAL LAYER (Robotics)"]
+        F --> G[6-DOF Actuation]
+        F --> H[Sensor Fusion]
+        H -.-> B
+    end
+
+    style Brains fill:#1a1b27,stroke:#00C9FF,stroke-width:2px,color:#fff
+    style Body fill:#1a1b27,stroke:#92FE9D,stroke-width:2px,color:#fff
+    style Bridge fill:#16161e,stroke:#7aa2f7,stroke-dasharray: 5 5,color:#fff
+```
+
+---
+
 ## 🛠️ Technical War Chest
 
 ### Languages
@@ -177,33 +211,33 @@ What makes my profile distinctive is the ability to **bridge hardware engineerin
 
 ### 🤖 Agentic AI & Intelligent Systems
 
-| Project | Domain | Stack | Description |
-|---|---|---|---|
-| **Pixora** | Multi-Agent Automation | Python, LLM APIs | Multi-agent AI platform for workflow automation & intelligent task delegation |
-| **FreelanceX** | Agent Marketplace | Python, Multi-Agent Architecture | AI-powered workflow automation & intelligent task routing for freelancers |
-| **AI Employee Vault** | AI Memory Systems | Python, FastAPI, PostgreSQL | Structured AI system for employee memory, contextual retention & knowledge storage |
-| **AI Edu Coach** | Educational AI | Python, LLM, RAG | Generative AI platform for personalized educational coaching & context-aware learning |
-| **RAG-Enabled AI Systems** | Knowledge Intelligence | Qdrant, Embeddings, FastAPI | Vector retrieval + generative responses for contextual knowledge access |
-| **Voice-Enabled AI** | Conversational AI | pyttsx3, Speech Recognition | Speech-to-text & text-to-speech exploration for AI interaction systems |
+| Project | Domain | Stack | Status | Description |
+|---|---|---|---|---|
+| **Pixora** | Multi-Agent Automation | Python, LLM APIs | `STABLE` | Multi-agent AI platform for workflow automation & intelligent task delegation |
+| **FreelanceX** | Agent Marketplace | Python, Multi-Agent Architecture | `BETA` | AI-powered workflow automation & intelligent task routing for freelancers |
+| **AI Employee Vault** | AI Memory Systems | Python, FastAPI, PostgreSQL | `ACTIVE` | Structured AI system for employee memory, contextual retention & knowledge storage |
+| **AI Edu Coach** | Educational AI | Python, LLM, RAG | `DEV` | Generative AI platform for personalized educational coaching & context-aware learning |
+| **RAG-Enabled AI Systems** | Knowledge Intelligence | Qdrant, Embeddings, FastAPI | `RESEARCH` | Vector retrieval + generative responses for contextual knowledge access |
+| **Voice-Enabled AI** | Conversational AI | pyttsx3, Speech Recognition | `EXPERIMENTAL` | Speech-to-text & text-to-speech exploration for AI interaction systems |
 
 ### 🦾 Robotics & Embedded Systems
 
-| Project | Domain | Stack | Description |
-|---|---|---|---|
-| **6-DOF Robotic Arm** | Robotics / Embedded Control | Arduino, C++, HC-05, Servo | Articulated 6-degree-of-freedom robotic arm with Bluetooth wireless control & multi-servo coordination |
-| **Obstacle Avoiding Robot** | Autonomous Robotics | Arduino, Ultrasonic Sensors | Autonomous robot with real-time sensor-based obstacle detection & avoidance |
-| **Soccer Robot** | Mobile Robotics | Arduino, Sensor Integration | Competitive robotics prototype with responsive embedded logic & real-time control |
-| **Sumo Robot** | Robotics Competition | Arduino, Embedded Systems | Autonomous strategy robot for competitive sumo-style engagement |
+| Project | Domain | Stack | Status | Description |
+|---|---|---|---|---|
+| **6-DOF Robotic Arm** | Robotics / Embedded Control | Arduino, C++, Bluetooth | `V.2.0` | Articulated 6-degree-of-freedom robotic arm with Bluetooth wireless control |
+| **Obstacle Avoiding Robot** | Autonomous Robotics | Arduino, Ultrasonic Sensors | `STABLE` | Autonomous robot with real-time sensor-based obstacle detection & avoidance |
+| **Soccer Robot** | Mobile Robotics | Arduino, Sensor Integration | `V.1.0` | Competitive robotics prototype with responsive embedded logic & real-time control |
+| **Sumo Robot** | Robotics Competition | Arduino, Embedded Systems | `ACTIVE` | Autonomous strategy robot for competitive sumo-style engagement |
 
 ### 🌐 Full-Stack & Backend Engineering
 
-| Project | Domain | Stack | Description |
-|---|---|---|---|
-| **Portfolio Website** | Personal Branding | Next.js, React, Radix UI, Tailwind, Framer Motion | Personal portfolio with polished animation, accessibility & clean UI architecture |
-| **Backend API Systems** | Backend Engineering | FastAPI, Python, PostgreSQL, Pydantic | Modular API services with async programming, structured validation & API-first design |
-| **Auth & Security Patterns** | Security / Identity | JWT, Better Auth, Lucia, bcrypt, CORS | Token-based auth, credential protection, rate limiting & backend security |
-| **Dockerized App Workflows** | DevOps / Deployment | Docker, Docker Compose | Containerized workflows for deployment consistency & scalable packaging |
-| **Todo App** | Productivity | Next.js, FastAPI, PostgreSQL | Full-stack task management app combining modern React frontend with async Python backend |
+| Project | Domain | Stack | Status | Description |
+|---|---|---|---|---|
+| **Portfolio Website** | Personal Branding | Next.js, Radix UI, Framer | `LIVE` | Personal portfolio with polished animation, accessibility & clean UI architecture |
+| **Backend API Systems** | Backend Engineering | FastAPI, PostgreSQL, Pydantic | `PROD` | Modular API services with async programming & API-first design |
+| **Auth & Security Patterns** | Security / Identity | JWT, Better Auth, bcrypt | `SECURED` | Token-based auth, credential protection, rate limiting & backend security |
+| **Dockerized App Workflows** | DevOps / Deployment | Docker, Docker Compose | `STABLE` | Containerized workflows for deployment consistency & scalable packaging |
+| **Todo App** | Productivity | Next.js, FastAPI, PostgreSQL | `LIVE` | Full-stack task management app combining modern React frontend with async Python backend |
 
 ### 🔐 Security & Utilities
 
