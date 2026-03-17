@@ -13,6 +13,7 @@
 [![Email](https://img.shields.io/badge/Email-aw4532350%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aw4532350@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdul_Wahid_Chohan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdul-wahid-chohan)
 [![GitHub](https://img.shields.io/badge/GitHub-abdulwahidchohan-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abdulwahidchohan)
+[![Portfolio](https://img.shields.io/badge/Portfolio-abdulwahidchohan.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://abdulwahidchohan.vercel.app/)
 [![Resume](https://img.shields.io/badge/Download_Resume-PDF-00C9FF?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](Abdul_Wahid_Chohan_Resume_Designer_Enhanced.pdf)
 
 </div>
@@ -33,6 +34,7 @@
 
 **Location:** Karachi, Pakistan 🇵🇰  
 **Phone:** +92 306 1288989  
+**Website:** [abdulwahidchohan.vercel.app](https://abdulwahidchohan.vercel.app/)  
 **Focus:** Robotics · Agentic AI · Backend Engineering · Embedded Systems
 
 ### 🎓 Education
@@ -373,6 +375,7 @@ graph LR
 [![Email](https://img.shields.io/badge/Email-aw4532350%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aw4532350@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Strategic_Network-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdul-wahid-chohan)
 [![GitHub](https://img.shields.io/badge/GitHub-52_Repositories-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abdulwahidchohan)
+[![Portfolio](https://img.shields.io/badge/Portfolio-abdulwahidchohan.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://abdulwahidchohan.vercel.app/)
 
 <br>
 
